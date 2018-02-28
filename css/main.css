@@ -1,0 +1,21 @@
+body{
+	font-family: verdana;
+}
+
+h1{
+	color: YELLOW;
+	font-family: verdana;
+	background: pink;
+}
+h2{
+	background: lightblue ;
+}
+main{
+	background: grey;
+}
+header{
+background: rgba(0, 0, 0, 0.2);	
+}
+p{
+	background : rgba(0, 0, 0, 0.1);
+}
